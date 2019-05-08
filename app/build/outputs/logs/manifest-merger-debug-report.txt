@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a8dd2a479e4f0bb1134cf066344ae38b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\cb883e40ff457c0b0d164db7a2cc55f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\a4c204e2e3bd296d74f10c5ff47f342b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8a98e87f0d12e63849ad8fde9ad9a527\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\3c6eecd75b275019e6c1699af9e1c025\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ce220913351294545b08d1579ae368cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\6b5fe782a06b0dd383fc3b06155d61a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d59b182edf1ba1be0cd0f6340bbbfc3a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\7df7768041f925f4bec540a8279e0c86\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\88cb7e0085d39ca36cf2bb5993a860cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\fd9f9ecae99e2944082d75a8ec0b7d45\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\033d03b70856f0b651e6f5940873ca6e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\1d5e784c36a3c4f91ecf778159e5663b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\0db60b152d4dcb4a7f68774cdeafb795\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\33b05c4455e3420f16e318452a936c34\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\6a0375f6d9547a61980a39833c0e214b\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b56f619203b729610fc5320363a79fa9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e322d1fda387e4393efb6bea836ac3ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e2c596411c524eab8b8f1a4be077b352\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\8528d3213d75103f4919bd4000fe60ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\3b45f5ddc892fdb01149304769883bdf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\8817877487db220807a7656f9b21e80e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5613899bf6e576f301fc9eaa60cb0973\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b5fed1da9b8b67c5e2cfd8965cbef65b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7aa494fa0d6580c3387b8cb4922eb8e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\d2ee37dd8255c316d451d424634d30ce\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml
+		INJECTED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml
+		INJECTED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml
+		INJECTED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml:7:22-64
+application
+ADDED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml:9:5-24:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\33b05c4455e3420f16e318452a936c34\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\33b05c4455e3420f16e318452a936c34\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\6a0375f6d9547a61980a39833c0e214b\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\6a0375f6d9547a61980a39833c0e214b\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\33b05c4455e3420f16e318452a936c34\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml:11:9-45
+	android:allowBackup
+		ADDED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml:14:9-40
+	android:networkSecurityConfig
+		ADDED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml:13:9-69
+activity#com.example.testattval.MainActivity
+ADDED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:label
+		ADDED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml:17:13-45
+	android:name
+		ADDED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml:16:13-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml
+INJECTED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a8dd2a479e4f0bb1134cf066344ae38b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a8dd2a479e4f0bb1134cf066344ae38b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\cb883e40ff457c0b0d164db7a2cc55f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\cb883e40ff457c0b0d164db7a2cc55f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\a4c204e2e3bd296d74f10c5ff47f342b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\a4c204e2e3bd296d74f10c5ff47f342b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8a98e87f0d12e63849ad8fde9ad9a527\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8a98e87f0d12e63849ad8fde9ad9a527\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\3c6eecd75b275019e6c1699af9e1c025\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\3c6eecd75b275019e6c1699af9e1c025\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ce220913351294545b08d1579ae368cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ce220913351294545b08d1579ae368cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\6b5fe782a06b0dd383fc3b06155d61a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\6b5fe782a06b0dd383fc3b06155d61a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d59b182edf1ba1be0cd0f6340bbbfc3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d59b182edf1ba1be0cd0f6340bbbfc3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\7df7768041f925f4bec540a8279e0c86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\7df7768041f925f4bec540a8279e0c86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\88cb7e0085d39ca36cf2bb5993a860cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\88cb7e0085d39ca36cf2bb5993a860cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\fd9f9ecae99e2944082d75a8ec0b7d45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\fd9f9ecae99e2944082d75a8ec0b7d45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\033d03b70856f0b651e6f5940873ca6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\033d03b70856f0b651e6f5940873ca6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\1d5e784c36a3c4f91ecf778159e5663b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\1d5e784c36a3c4f91ecf778159e5663b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\0db60b152d4dcb4a7f68774cdeafb795\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\0db60b152d4dcb4a7f68774cdeafb795\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\33b05c4455e3420f16e318452a936c34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\33b05c4455e3420f16e318452a936c34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\6a0375f6d9547a61980a39833c0e214b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\6a0375f6d9547a61980a39833c0e214b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b56f619203b729610fc5320363a79fa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b56f619203b729610fc5320363a79fa9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e322d1fda387e4393efb6bea836ac3ce\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e322d1fda387e4393efb6bea836ac3ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e2c596411c524eab8b8f1a4be077b352\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e2c596411c524eab8b8f1a4be077b352\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\8528d3213d75103f4919bd4000fe60ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\8528d3213d75103f4919bd4000fe60ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\3b45f5ddc892fdb01149304769883bdf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\3b45f5ddc892fdb01149304769883bdf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\8817877487db220807a7656f9b21e80e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\8817877487db220807a7656f9b21e80e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5613899bf6e576f301fc9eaa60cb0973\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5613899bf6e576f301fc9eaa60cb0973\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b5fed1da9b8b67c5e2cfd8965cbef65b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b5fed1da9b8b67c5e2cfd8965cbef65b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7aa494fa0d6580c3387b8cb4922eb8e9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7aa494fa0d6580c3387b8cb4922eb8e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\d2ee37dd8255c316d451d424634d30ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\zongbin.tu\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\d2ee37dd8255c316d451d424634d30ce\AndroidManifest.xml:20:5-44
+INJECTED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml
+INJECTED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml
+		ADDED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml
+		INJECTED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml
+		ADDED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml
+		INJECTED from E:\work\tu\android\KSoap2AndroidExample\app\src\main\AndroidManifest.xml
